@@ -1,0 +1,15 @@
+
+{
+  "username":"admin",
+  "array":[
+    {"first":"A"},
+    {"2":"B"},
+    {"exe":"ss"},
+    {}
+  ],
+  "obj":{
+    "action":{
+      "do":"sport"
+    }
+  }
+}
